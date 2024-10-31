@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vrinda Shah</h1>
 <h3 align="center">AI/ML Enthusiast and Backend Developer</h3>
-<img align="right alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
+<img align="right alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 
-<p align="left"> <img src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" /> </p>
 
 - 📫 How to reach me **vrindashah2018@gmail.com**
 

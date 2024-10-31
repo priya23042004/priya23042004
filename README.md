@@ -1,7 +1,6 @@
-[<h1 align="center">Hi 👋, I'm Vrinda Shah</h1>
+<h1 align="center">Hi 👋, I'm Vrinda Shah</h1>
 <h3 align="center">AI/ML Enthusiast and Backend Developer</h3>
-
-<img align="right alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gi](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-girl-gif-2332171326726785246&psig=AOvVaw3zxInBnH165di68Q840OMQ&ust=1730443043378000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDshvKAuIkDFQAAAAAdAAAAABAE">
+<img align="right alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priya23042004&label=Profile%20views&color=0e75b6&style=flat" alt="priya23042004" /> </p>
 
